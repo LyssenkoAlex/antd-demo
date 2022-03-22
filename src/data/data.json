@@ -1,0 +1,206 @@
+{
+  "input_elements_x": [
+    {
+      "code": "Hydrogen",
+      "name_eng": "Hydrogen",
+      "type": "number",
+      "min": 12,
+      "max": 500,
+      "default_value": 263,
+      "label": "Hydrogen label",
+      "required": true
+    },
+    {
+      "code": "Carbon_1",
+      "name_eng": "Carbon",
+      "type": "number",
+      "min": 12,
+      "max": 60,
+      "default_value": 41,
+      "label": "Carbon label",
+      "required": true
+    },
+    {
+      "code": "Carbon_2",
+      "name_eng": "Carbon",
+      "type": "number",
+      "min": 12,
+      "max": 60,
+      "default_value": 41,
+      "label": "Carbon label 2",
+      "required": true
+    },
+    {
+      "code": "Carbon_3",
+      "name_eng": "Carbon",
+      "type": "number",
+      "min": 963,
+      "max": 1200,
+      "default_value": 1100,
+      "label": "Carbon label 3",
+      "required": true
+    },
+    {
+      "code": "Carbon_4",
+      "name_eng": "Carbon",
+      "type": "number",
+      "min": 56,
+      "max": 60,
+      "default_value": 57,
+      "label": "Carbon label 4",
+      "required": true
+    },
+    {
+      "code": "Carbon_5",
+      "name_eng": "Carbon",
+      "type": "number",
+      "min": 59,
+      "max": 85,
+      "default_value": 65,
+      "label": "Carbon label 5",
+      "required": false
+    },
+    {
+      "code": "Carbon_6",
+      "name_eng": "Carbon",
+      "type": "number",
+      "min": 560,
+      "max": 700,
+      "default_value": 600,
+      "label": "Carbon label",
+      "required": true
+    },
+    {
+      "code": "Carbon_7",
+      "name_eng": "Carbon",
+      "type": "number",
+      "min": 500,
+      "max": 1500,
+      "default_value": 650,
+      "label": "Carbon label 7",
+      "required": true
+    },
+    {
+      "code": "Carbon_8",
+      "name_eng": "Carbon",
+      "type": "number",
+      "min": 23,
+      "max": 120,
+      "default_value": 41,
+      "label": "Carbon label_8",
+      "required": false
+    },
+    {
+      "code": "Carbon_9",
+      "name_eng": "Carbon",
+      "type": "number",
+      "min": 5,
+      "max": 10,
+      "default_value": 6,
+      "label": "Carbon label_9",
+      "required": true
+    }
+  ],
+  "input_elements_y": [
+    {
+      "code": "Plumb",
+      "name_eng": "Plumb",
+      "type": "number",
+      "min": 12,
+      "max": 500,
+      "default_value": 263,
+      "label": "Plumb label",
+      "required": true
+    },
+    {
+      "code": "Plumb_1",
+      "name_eng": "Plumb",
+      "type": "number",
+      "min": 12,
+      "max": 60,
+      "default_value": 41,
+      "label": "Plumb label",
+      "required": true
+    },
+    {
+      "code": "Plumb_2",
+      "name_eng": "Plumb",
+      "type": "number",
+      "min": 12,
+      "max": 60,
+      "default_value": 41,
+      "label": "Plumb label 2",
+      "required": true
+    },
+    {
+      "code": "Plumb_3",
+      "name_eng": "Plumb",
+      "type": "number",
+      "min": 963,
+      "max": 1200,
+      "default_value": 1100,
+      "label": "Plumb label 3",
+      "required": true
+    },
+    {
+      "code": "Plumb_4",
+      "name_eng": "Plumb",
+      "type": "number",
+      "min": 56,
+      "max": 60,
+      "default_value": 57,
+      "label": "Plumb label 4",
+      "required": true
+    },
+    {
+      "code": "Plumb_5",
+      "name_eng": "Plumb",
+      "type": "number",
+      "min": 59,
+      "max": 85,
+      "default_value": 65,
+      "label": "Plumb label 5",
+      "required": false
+    },
+    {
+      "code": "Plumb_6",
+      "name_eng": "Plumb",
+      "type": "number",
+      "min": 560,
+      "max": 700,
+      "default_value": 600,
+      "label": "Plumb label",
+      "required": true
+    },
+    {
+      "code": "Plumb_7",
+      "name_eng": "Plumb",
+      "type": "number",
+      "min": 500,
+      "max": 1500,
+      "default_value": 650,
+      "label": "Plumb label 7",
+      "required": true
+    },
+    {
+      "code": "Plumb_8",
+      "name_eng": "Plumb",
+      "type": "number",
+      "min": 23,
+      "max": 120,
+      "default_value": 41,
+      "label": "Plumb label_8",
+      "required": false
+    },
+    {
+      "code": "Plumb_9",
+      "name_eng": "Plumb",
+      "type": "number",
+      "min": 5,
+      "max": 10,
+      "default_value": 6,
+      "label": "Plumb label_9",
+      "required": true
+    }
+  ]
+}
